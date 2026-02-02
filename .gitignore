@@ -8,3 +8,4 @@ bin/
 .project
 .settings/
 *.log
+.vscode/settings.json
