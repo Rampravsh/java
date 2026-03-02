@@ -8,7 +8,7 @@ public class method1 {
 
         System.out.println(getNumber());
 
-        System.out.println(multiply(35,344));
+        System.out.println(multiply(5,3));
 
     }
     //NO Ip,NO Op
