@@ -55,5 +55,4 @@ class Student {
         this.rollNumber = rollNumber;
         this.college = college;
     }
-
 }
